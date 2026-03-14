@@ -5,6 +5,7 @@ Script PowerShell standalone com interface gráfica para automação de formata�
 Instalador Automático de Programas (PowerShell GUI) 🚀
 Este script em PowerShell foi desenvolvido para otimizar e automatizar o processo de pós-formatação e preparação de ambientes de trabalho no Windows. O script é 100% standalone (não necessita de ficheiros externos) e conta com uma interface gráfica (GUI) baseada em Windows Forms.
 
+
 ✨ Funcionalidades Principais
 🛡️ Auto-Elevação de Privilégios: O script deteta automaticamente se está sendo executado como Administrador. Caso não esteja, eleva os seus próprios privilégios e aplica o ExecutionPolicy Bypass de forma transparente.
 📦 Instalação de Gerenciadores: Instalação e reparação automática dos módulos do Winget e Chocolatey com apenas um clique.
@@ -13,7 +14,6 @@ Este script em PowerShell foi desenvolvido para otimizar e automatizar o process
 🔑 Ativação de Sistemas: Integração de atalhos para os scripts de ativação seguros (MAS - Microsoft Activation Scripts) para Windows (HWID) e Office (Ohook).
 📚 Instalação em Lote (JSON Embutido): Mais de 300 programas organizados por categorias (Navegadores, Utilitários, Desenvolvimento, Multimédia, etc.) em sub-separadores. O usuário pode marcar "Selecionar Tudo" por categoria e instalar dezenas de aplicativos de uma só vez, de forma silenciosa e em segundo plano.
 🖥️ Console de Logs Integrado: Acompanhamento visual em tempo real do progresso das instalações, avisos e códigos de erro diretamente na interface.
-
 
 🛠️ Como usar
 Abra o Powershell como Administrador e digite o código:
