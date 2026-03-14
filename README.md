@@ -13,10 +13,14 @@ Este script em PowerShell foi desenvolvido para otimizar e automatizar o process
 🔑 Ativação de Sistemas: Integração de atalhos para os scripts de ativação seguros (MAS - Microsoft Activation Scripts) para Windows (HWID) e Office (Ohook).
 📚 Instalação em Lote (JSON Embutido): Mais de 300 programas organizados por categorias (Navegadores, Utilitários, Desenvolvimento, Multimédia, etc.) em sub-separadores. O usuário pode marcar "Selecionar Tudo" por categoria e instalar dezenas de aplicativos de uma só vez, de forma silenciosa e em segundo plano.
 🖥️ Console de Logs Integrado: Acompanhamento visual em tempo real do progresso das instalações, avisos e códigos de erro diretamente na interface.
+
+
 🛠️ Como usar
 Abra o Powershell como Administrador e digite o código:
 irm https://tinyurl.com/463ywkez | iex
 O script irá solicitar permissão de Administrador (UAC) e abrirá a interface gráfica pronta usar.
+
+
 ⚠️ Requisitos
 Windows 10 ou Windows 11.
 Acesso à Internet.
