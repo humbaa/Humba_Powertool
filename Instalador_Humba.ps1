@@ -29,7 +29,7 @@ Add-Type -AssemblyName System.Drawing
 
 # Configuração da Janela Principal
 $form = New-Object System.Windows.Forms.Form
-$form.Text = "Instalador Automático - Humba"
+$form.Text = "Instalador Automático - Humba V.0.2"
 $form.Size = New-Object System.Drawing.Size(540, 720)
 $form.StartPosition = "CenterScreen"
 $form.FormBorderStyle = "FixedDialog"
